@@ -1,2 +1,2 @@
 # homepage 
-My homepage is now up: https://zichuanw.github.io/homepage/.
+My homepage is now up at https://zichuanw.github.io/homepage/.
