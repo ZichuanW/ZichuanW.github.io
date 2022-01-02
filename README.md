@@ -1,2 +1,2 @@
 # homepage 
-Please see https://zichuanw.github.io/homepage/ for more information.
+Please see https://zichuanw.github.io for more information.
